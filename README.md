@@ -1,1 +1,1 @@
-# Ransomware_source_code
+forked coz i needed encyption kthxbye
